@@ -10,5 +10,6 @@ public class Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_);
                 //万一错了怎么办
+        //xiangcuojiunengcuo
     }
 }
